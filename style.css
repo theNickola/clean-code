@@ -168,3 +168,7 @@ ul li.editMode input[type=text] {
 ul li.editMode label {
   display: none;
 }
+
+.visibility-hidden {
+    display: none;
+}
