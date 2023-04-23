@@ -153,6 +153,7 @@
   display: none;
 }
 
-.visibility_hidden {
+.header__title_visibility_hidden,
+.main-wrapper__subtitle_visibility_hidden {
     display: none;
 }
