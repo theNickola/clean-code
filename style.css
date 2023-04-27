@@ -139,7 +139,7 @@
 }
 
 /* Completed */
-#completed-tasks .task-list-item__label {
+.task-list-completed .task-list-item__label {
   text-decoration: line-through;
   color: #888;
 }
